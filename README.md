@@ -6,3 +6,19 @@ MACHINE LEARNING | PYTHON | DATA SCIENCE
 • Utilized various statistical techniques and data visualization tools to analyze large datasets and identify patterns and anomalies in transactions.
 <br>
 • Collaborated with cross-functional teams to improve the system's performance and accuracy and ensure compliance with industry regulations.
+<br>
+<br>
+Algorithams are unsed:- 
+<br>
+1. Logistic Regression
+<br>
+2. SVM
+<br>
+3. KNN
+<br>
+4. Random Forest
+<br>
+5. Decision Tress Classifier
+<br>
+6. XGBoost
+<br>
