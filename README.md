@@ -9,14 +9,8 @@ MACHINE LEARNING | PYTHON | DATA SCIENCE
 <br>
 Algorithams are unsed:- 
 1. Logistic Regression
-<br>
 2. SVM
-<br>
 3. KNN
-<br>
 4. Random Forest
-<br>
 5. Decision Tress Classifier
-<br>
 6. XGBoost
-<br>
