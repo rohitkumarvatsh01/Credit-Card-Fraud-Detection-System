@@ -7,9 +7,7 @@ MACHINE LEARNING | PYTHON | DATA SCIENCE
 <br>
 • Collaborated with cross-functional teams to improve the system's performance and accuracy and ensure compliance with industry regulations.
 <br>
-<br>
 Algorithams are unsed:- 
-<br>
 1. Logistic Regression
 <br>
 2. SVM
