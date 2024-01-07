@@ -7,7 +7,7 @@ MACHINE LEARNING | PYTHON | DATA SCIENCE
 <br>
 • Collaborated with cross-functional teams to improve the system's performance and accuracy and ensure compliance with industry regulations.
 <br>
-Algorithams are used:- 
+Algorithams are used:-
 1. Logistic Regression
 2. SVM
 3. KNN
