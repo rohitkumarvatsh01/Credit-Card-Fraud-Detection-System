@@ -13,4 +13,4 @@ Algorithams are used:-
 3. KNN
 4. Random Forest
 5. Decision Tress Classifier
-6. XGBoost
+6. XGBoost 
